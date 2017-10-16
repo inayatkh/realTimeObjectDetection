@@ -1,7 +1,7 @@
 
 # Real-time Object Detection with deep MobileNetSSD detector
 
-##[MobileNetSSD](https://arxiv.org/abs/1704.04861)
+## [MobileNetSSD](https://arxiv.org/abs/1704.04861)
 
 This is an efficient use  of a deep detector usinf python 3, [Caffe](https://github.com/weiliu89/caffe/tree/ssd) and openCV.
 
